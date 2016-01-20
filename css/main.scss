@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* path to glyphicons */
+$icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
+
+/* custom variable */
+$body-bg: white;
+$text-color: black;
+$font-stack:    Helvetica, sans-serif;
+$corner-radius: 30px;
+
+:link, :visited{
+	color: $text-color;
+}
+
+body {
+  font: 100% $font-stack;
+  background-color: $body-bg;
+  color: black;
+  list-style: none;
+  padding: 0px;
+
+}
+ul {
+    list-style: none;
+}
+
+.page-content{
+	position:relative; 
+	top:5%;
+}
+img{
+	-moz-border-radius: $corner-radius;
+	-webkit-border-radius: $corner-radius;
+	border-radius: $corner-radius; /* future proofing */
+	-khtml-border-radius: $corner-radius; /* for old Konqueror browsers */
+}
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
+
+/* any style customization must be before the bootstrap import */
+@import "bootstrap";

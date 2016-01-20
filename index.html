@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home container-fluid">
+ <div class="parallax-window col" data-parallax="scroll" data-image-src="img/WHEARS.jpg" id="home"></div>
+    <h1 class="page-heading">Posts</h1>
+    <div class="post-list row">
+        {% for post in site.posts %}
+        
+        <div class=" col-xs-4"> 
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <img src="{{post.img}}" class="img-responsive" alt="Responsive image">
+            <h4>{{ post.description }}</h4>
+            <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+        </div>
+        {% endfor %}
+    </div>
+</div>

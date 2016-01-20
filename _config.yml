@@ -1,0 +1,24 @@
+# Site settings
+title: Sam Sadtler
+email: sam.sadtler@gmail.com
+description: > #
+ Sam Sadtler's musings in Technology and Art
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "/" # the base hostname & protocol for your site
+twitter_username: samsadtler
+github_username:  samsadtler
+
+# Build settings
+markdown: kramdown
+
+sass:
+  # loading path from site root
+  # default to _sass
+  sass_dir: node_modules/bootstrap-sass/assets/stylesheets
+
+  # style : nested (default), compact, compressed, expanded
+  #         :nested, :compact, :compressed, :expanded also works
+  # see http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # on a typical twitter bootstrap stats are :
+  # nested 138,7kB, compact 129,1kB, expanded 135,9 kB, compressed 122,4 kB
+  style: compressed
