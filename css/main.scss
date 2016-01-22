@@ -9,14 +9,14 @@ $icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
 /* custom variable */
 $body-bg: white;
 $text-color: black;
-$font-stack:    Helvetica, sans-serif;
+$font-stack: 'Roboto', sans-serif;
 $corner-radius: 30px;
 
-:link, :visited{
+a, :link, :visited{
 	color: $text-color;
 }
 
-body {
+body{
   font: 100% $font-stack;
   background-color: $body-bg;
   color: black;
@@ -24,14 +24,15 @@ body {
   padding: 0px;
 
 }
+
 ul {
     list-style: none;
 }
-
-.page-content{
-	position:relative; 
-	top:5%;
+.navbar-collapse{
+	background: $body-bg;
+	color: $text-color;
 }
+
 img{
 	-moz-border-radius: $corner-radius;
 	-webkit-border-radius: $corner-radius;
