@@ -32,7 +32,9 @@ ul {
 	background: $body-bg;
 	color: $text-color;
 }
-
+.img-responsive{
+  max-height: 350px;
+}
 img{
 	-moz-border-radius: $corner-radius;
 	-webkit-border-radius: $corner-radius;

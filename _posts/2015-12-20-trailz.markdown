@@ -3,12 +3,15 @@ layout: post
 title:  "Trailz"
 date:   2015-12-20 21:00:30
 categories: designing-for-data-personalization
-description: Expand Your Online Subconscious
+description: Expand Your Subconscious
 permalink: trailz
-img: /img/WHEARS.jpg
+img: /img/trailz.png
 ---
 
+
 <iframe width="100%" height="569" src="https://www.youtube.com/embed/isBMyo0_S24" frameborder="0" allowfullscreen></iframe>
+<div class="col-xs-1"></div>
+<div class="col-xs-10">
 <p>This video shows the simple process of adding to a trail as new content is found and needs to be saved. Targeted websites are saved as steps and then are brought to the surface as new and relevant website are navigated to. Previously saved sites are made available for reference. The added sites can then be subsequently managed and viewed on the server.</p>
 <h2> What data did you decide to work with? </h2>
 <p>Working with Cole Orloff we decided to focus on user created bookmarks and tags generated from a users current website. Personal data which rarely sees the light of day. Trail with a z: making your bookmarks useful by surfacing bookmarks which are relevant to the current page you’re on.</p>
@@ -29,7 +32,7 @@ img: /img/WHEARS.jpg
 <h2>Slides</h2>
 <p> This presentation documents our thought process throughout the project and detail where we started and where the current state of the project is.</p>
 <iframe src="https://docs.google.com/presentation/d/1hMMN2EV7U1kd2VE5h1-1t6rYmBN1S00vNJ6Z-rdqq_Q/embed?start=false&loop=false&delayms=30000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+</div>
 
 
 [jekyll]:      http://jekyllrb.com

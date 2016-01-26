@@ -262,3 +262,20 @@
 	};
 	
 })( jQuery, window , document );
+
+$(document).ready(function(){
+	console.log("hide that shit")
+	$('#modal').modal('hide')
+	$('.modal').mouseenter(function(e){
+		console.log("show modal")	
+		e.modal('show')
+		// e.style("display":'block');
+	});
+	$(".modal").mouseleave(function(e){
+		console.log("show modal")	
+		e.modal('show')
+	});
+});
+
+
+

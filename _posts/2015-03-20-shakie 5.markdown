@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Developing Assistive Touch"
-date:   2015-12-13 21:00:30
-categories: developing assistive technology
-description: Developing Assistive Touch
-permalink: dat
-img: /img/dat.jpg
+title:  "Shakie"
+date:   2015-03-20 21:00:30
+categories: Making-Sense-of-Wearables
+description: shake it till you take it
+permalink: shakie
+img: /img/shakie.png
 ---
+<div>
+	<iframe width="100%" height="480" src="https://www.youtube.com/embed/JSgkgHqbBLo" frameborder="0" allowfullscreen></iframe>
+</div>
 
-
- <img src="/img/dat.jpg" class="img-responsive" alt="Responsive image">
- <iframe width="100%" height="480" src="https://www.youtube.com/embed/2mmuIGsvyr4" frameborder="0" allowfullscreen></iframe>
+ <!-- <img src="{{post.img}}" class="img-responsive" alt="Responsive image"> -->
 
 <!-- Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. -->
 
