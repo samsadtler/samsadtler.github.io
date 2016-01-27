@@ -12,5 +12,5 @@ img: img/stupid.png
 </div>
 
 <p>
-	Ever wonder what its like to see behind you? Try nauseating.
+	Ever wonder what it is like to see behind you? Try nauseating.
 </p>

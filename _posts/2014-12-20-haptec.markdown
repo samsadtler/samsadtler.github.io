@@ -12,4 +12,6 @@ img: /img/hatpec-ride.jpg
 </div>
 <p>
  a bicycle navigation system which uses a simple LED indicators and vibration motors to provide riders with timely turn by turn directions.
+
+ Designed to alleviate the demands of navigation while riding a in the city. Haptec pair with a phone and paired with a custom web app to deliver turn-by-turn
  </p>

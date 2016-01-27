@@ -32,19 +32,20 @@ ul {
 	background: $body-bg;
 	color: $text-color;
 }
-.img-responsive{
-  max-height: 350px;
+.icon{
+  max-height: 250px;
 }
 img{
-	-moz-border-radius: $corner-radius;
-	-webkit-border-radius: $corner-radius;
-	border-radius: $corner-radius; /* future proofing */
-	-khtml-border-radius: $corner-radius; /* for old Konqueror browsers */
+
+
 }
 .parallax-window {
     min-height: 600px;
     background: transparent;
 }
-
+.container{
+  padding-left: 50px;
+  padding-right: 50px; 
+}
 /* any style customization must be before the bootstrap import */
 @import "bootstrap";
