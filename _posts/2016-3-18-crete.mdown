@@ -4,7 +4,7 @@ title:  "Crete"
 date:   2016-04-20 21:00:30
 categories: Connected Device  
 description: Design to help users disconnect from their everyday lives through the use of haptic vibrations that tell them to be more mindful.
-permalink: rainbows
+permalink: crete
 img: /img/crete.png
 ---
 <div>
