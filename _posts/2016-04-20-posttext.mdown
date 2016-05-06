@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Post Text"
+date:   2016-04-20 21:00:30
+categories: Connected Post  
+description: Imagining text message through the traditional USPS
+permalink: postext
+img: /img/post-text.jpg
+---
+
+<p> An exploration of the past and the future</p>

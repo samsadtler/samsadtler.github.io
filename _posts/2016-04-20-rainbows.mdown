@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Chance Of Rainbows"
+date:   2016-04-20 21:00:30
+categories: app design 
+description: designed to predict the chance of rainbows
+permalink: rainbows
+img: /img/chanceofrainbows.jpg
+---
+<div>
+	
+</div>
+<p> An exploration of the past and the future</p>

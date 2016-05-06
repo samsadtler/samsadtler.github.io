@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Shakie"
-date:   2015-03-20 21:00:30
+date:   2016-04-20 21:00:30
 categories: Making-Sense-of-Wearables
 description: shake it till you take it
 permalink: shakie
-img: /img/shakie.png
+img: /img/shakie-hand.jpg
 ---
 <div>
-	<iframe width="100%" height="480" src="https://www.youtube.com/embed/JSgkgHqbBLo" frameborder="0" allowfullscreen></iframe>
+	<iframe width="100%" height="480" src="https://www.youtube.com/embed/8-9-8u0JUWc?list=PLp1AzLEITCFxnF3zXRn5ZErynB5Vg5Ynr" frameborder="0" allowfullscreen></iframe>
 </div>
 
  <!-- <img src="{{post.img}}" class="img-responsive" alt="Responsive image"> -->
