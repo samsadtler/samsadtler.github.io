@@ -4,7 +4,7 @@ title:  "Post Text"
 date:   2016-04-20 21:00:30
 categories: Connected Post  
 description: Reimagining text message through the traditional USPS
-permalink: postext
+permalink: posttext
 img: /img/post-text.jpg
 ---
 
