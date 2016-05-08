@@ -2,7 +2,7 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
+@import "bootstrap";
 /* path to glyphicons */
 $icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
 
@@ -17,7 +17,7 @@ a, :link, :visited{
 }
 
 body{
-  font: 100% $font-stack;
+  font-family: $font-stack;
   background-color: $body-bg;
   color: black;
   list-style: none;
@@ -48,4 +48,3 @@ img{
   padding-right: 50px; 
 }
 /* any style customization must be before the bootstrap import */
-@import "bootstrap";

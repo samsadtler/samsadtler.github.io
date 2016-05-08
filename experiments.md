@@ -1,4 +1,4 @@
----
+	---
 layout: post
 title: Experiments
 permalink: /experiments/
@@ -12,7 +12,7 @@ permalink: /experiments/
 			<p class="post-meta">{{ experiment.date | date: "%b %-d, %Y" }}{% if experiment.author %} • {{ experiment.author }}{% endif %}{% if experiment.meta %} • {{ experiment.meta }}{% endif %}</p>
 		</header>
 		<div class="col-xs-1"></div>
-		<article class="post-content col-xs-*">
+		<article class="post-content col-xs-10">
 		{{ content }}
 		</article>
 		<div class="col-xs-1"></div>

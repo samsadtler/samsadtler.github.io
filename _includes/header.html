@@ -3,24 +3,26 @@
   <div class="wrapper">
   
         <nav class="navbar navbar-default">
-             <div class="container-fluid">
+             <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="site-nav navbar-header trigger">
-                    <a class="navbar-brand site-title" href="{{ site.url | prepend: site.baseurl }}">{{ site.title }}</a>
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-
-                    </button>
-                   
+                <div class="row site-nav navbar-header trigger">
+                    <div class="col-xs-1"></div>
+                        <div class="col-xs-10">
+                            <a class="navbar-brand site-title" href="{{ site.url | prepend: site.baseurl }}">{{ site.title }}</a>
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                      </div>
+                    <!-- <div class="col-xs-1"></div> -->
                 </div>
                 
                 <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
                     
                     <!-- this links to sections of scroller, Change section names here-->
-                    <ul class="nav navbar-nav navbar-right col-xs-*" id="top-nav">
+                    <ul class="nav navbar-nav navbar-right" id="top-nav">
                         {% for page in site.pages %}
                             <li>  
                                   {% if page.title %}

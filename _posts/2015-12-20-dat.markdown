@@ -2,7 +2,7 @@
 layout: post
 title:  "Developing Assistive Touch"
 date:   2015-12-13 21:00:30
-categories: developing assistive technology
+categories: assistive technology
 description: Developing Assistive Touch
 permalink: dat
 img: /img/dat.jpg
