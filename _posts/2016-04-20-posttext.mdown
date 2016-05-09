@@ -2,12 +2,11 @@
 layout: post
 title:  "Post Text"
 date:   2016-04-20 21:00:30
-categories: Connected Post  
-description: Reimagining text message through the traditional USPS
+categories: Connected-Post  
+description: Reimagining text messages through the traditional USPS
 permalink: posttext
 img: /img/post-text.jpg
 ---
-
 
 
 <div class="col-xs-11">

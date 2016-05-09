@@ -2,7 +2,7 @@
 layout: post
 title:  "Shakie"
 date:   2016-04-20 21:00:30
-categories: Making-Sense-of-Wearables
+categories: Always-On
 description: shake it till you take it
 permalink: shakie
 img: /img/shakie-hand.jpg
