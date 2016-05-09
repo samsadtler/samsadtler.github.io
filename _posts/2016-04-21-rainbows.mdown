@@ -4,7 +4,7 @@ title:  "Chance Of Rainbows"
 date:   2016-04-20 21:00:30
 categories: app 
 description: designed to predict the chance of rainbows
-permalink: rainbows
+permalink: rainbows/index.html
 img: /img/chanceofrainbows.jpg
 ---
 <div class="col-xs-11">
