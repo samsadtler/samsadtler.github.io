@@ -5,9 +5,9 @@ date:   2016-04-20 21:00:30
 categories: app design 
 description: designed to predict the chance of rainbows
 permalink: rainbows
-img: /img/chanceofrainbows.jpg
+img:/img/chanceofrainbows.jpg
 ---
-<div>
-	
+<div class="col-xs-11">
+	<img src="/img/chanceofrainbows.jpg" class="img-responsive" alt="Responsive image"/>
 </div>
 <p> An exploration of the past and the future</p>
