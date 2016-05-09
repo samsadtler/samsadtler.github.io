@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Chance-Of-Rainbows"
+date:   2016-04-20 21:00:30
+categories: app 
+description: designed to predict the chance of rainbows
+permalink: rainbows
+img: /img/chanceofrainbows.jpg
+---
+<div class="col-xs-11">
+	<img src="/img/chanceofrainbows.jpg" class="img-responsive" alt="Responsive image"/>
+</div>
