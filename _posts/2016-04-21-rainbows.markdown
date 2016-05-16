@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chance-Of-Rainbows"
+title:  "Chance Of Rainbows"
 date:   2016-04-20 21:00:30
 categories: app 
 description: designed to predict the chance of rainbows
@@ -9,4 +9,5 @@ img: /img/chanceofrainbows.jpg
 ---
 <div class="col-xs-11">
 	<img src="/img/chanceofrainbows.jpg" class="img-responsive" alt="Responsive image"/>
+	<p class="text-align-left"> The first rainbow app of its kind. Chance of Rainbows, detects where a user is and based on a number of conditions (largely environmental) they are given the chance of seeing a rainbow at the present moment</p>
 </div>

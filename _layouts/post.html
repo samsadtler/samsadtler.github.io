@@ -3,13 +3,14 @@ layout: default
 ---
 <div class="post">
 	<div class="row">
-		<div class="col-xs-1"></div>
-			<header class="post-header col-xs-1">
+		
+			<header class="post-header">
+				<div class="col-xs-1"></div>
 				<h1 class="post-title">{{ page.title }}</h1>
 				<!-- <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p> -->
 			</header>
 		</div>
-			<!-- <div class="col-xs-1"></div> -->
+			<div class="col-xs-1"></div>
 			<article class="post-content col-xs-10">
 			{{ content }}
 			</article>
