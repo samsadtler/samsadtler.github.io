@@ -11,15 +11,17 @@ img: /img/zombiecrossing.png
 <div>
 	<iframe width="100%" height="480" src="https://www.youtube.com/embed/raWhliAt30c" frameborder="0" allowfullscreen></iframe>
 </div>
-<!-- <div class="col-xs-1"></div> -->
-<div class="col-xs-12">
-	<img src="/img/zombiecrossing.png" class="img-responsive" alt="Responsive image"/>
-</div>
 <div class="col-xs-12">
 
 	<p>
 		Zombie Crossing confronts the reality that more pedestrians are hit by cars now than before because they are enamored in their phones. Zombie Crossing, is an update to pedestrian crossing signs. Designed to help create awareness for drivers that pedestrians are on the phones while in the street and it is a reality of driving. For pedestrians it reflects the fact that this is their relationship to their phones.
-		Part of the Zombie Self Awareness Kit. 
-
+		
 	</p>
+	<p>
+		Part of the Zombie Self Awareness Kit. 
+	</p>
+</div>
+<!-- <div class="col-xs-1"></div> -->
+<div class="col-xs-12">
+	<img src="/img/zombiecrossing.png" class="img-responsive" alt="Responsive image"/>
 </div>
