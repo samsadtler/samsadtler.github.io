@@ -4,8 +4,8 @@ title: CV
 permalink: /cv/
 ---
 
-<embed src="img/sadtlercv16.pdf" width="100%" height="100%">
+<embed src="img/SSadtler_SA_CV_2016.svg" width="100%" height="100%">
 
-<object data="img/sadtlercv16.pdf" type="application/pdf" width="100%" height="100%">
-<a href="img/sadtlercv16.pdf">CV.pdf</a>
+<object data="img/SSadtler_SA_CV_2016.svg" type="application/pdf" width="100%" height="100%">
+<a href="img/SSadtler_SA_CV_2016.svg">CV.pdf</a>
 </object>
