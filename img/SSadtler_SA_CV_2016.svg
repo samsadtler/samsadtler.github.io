@@ -12,7 +12,7 @@
                     <path d="M0.725582101,0.629065469 L644.849777,0.619877603" id="Stroke-15" stroke="#1A1918"></path>
                 </g>
                 <text font-family="AvenirNext-Bold, Avenir Next" font-size="13" font-weight="bold" fill="#1A1918">
-                    <tspan x="10" y="19">Teaching</tspan>
+                    <tspan x="10" y="17">Teaching</tspan>
                 </text>
                 <text id="Teaching-Assistant" font-family="AvenirNext-Bold, Avenir Next" font-size="13" font-weight="bold" fill="#141413">
                     <tspan x="81" y="55">Teaching Assistant</tspan>
@@ -28,26 +28,6 @@
                 <g id="bar" transform="translate(41.000000, 0.415667)" fill="#B4B5B4" opacity="0.4">
                     <polygon id="Fill-13" points="0.430182373 20.8000126 641.146313 20.8000126 641.146313 0.127315604 0.430182373 0.127315604"></polygon>
                 </g>
-                <text id="2015" font-family="AvenirNext-Regular, Avenir Next" font-size="11.4434783" font-weight="normal" fill="#1A1918">
-                    <tspan x="100.767857" y="48.2719205"></tspan>
-                    <tspan x="74.2189876" y="63.2719205">2015</tspan>
-                    <tspan x="74.2189876" y="78.2719205">2015</tspan>
-                    <tspan x="74.2189876" y="93.2719205">2014</tspan>
-                    <tspan x="74.2189876" y="108.271921">2014</tspan>
-                    <tspan x="74.2189876" y="123.271921">2012</tspan>
-                    <tspan x="74.2189876" y="138.271921">2011</tspan>
-                    <tspan x="74.2189876" y="153.271921">2010</tspan>
-                    <tspan x="100.767857" y="168.271921"></tspan>
-                    <tspan x="0" y="48.2719205"> </tspan>
-                    <tspan x="74.2189876" y="198.271921">2011</tspan>
-                    <tspan x="74.2189876" y="213.271921">2009</tspan>
-                    <tspan x="100.767857" y="228.271921"></tspan>
-                    <tspan x="100.767857" y="243.271921"></tspan>
-                    <tspan x="38.2864658" y="258.271921">2011 - 2012</tspan>
-                    <tspan x="74.2189876" y="273.271921">2011</tspan>
-                    <tspan x="74.2189876" y="288.271921">2011</tspan>
-                    <tspan x="74.2189876" y="303.271921">2009</tspan>
-                </text>
                 <text font-family="AvenirNext-Bold, Avenir Next" font-size="12.3971014" font-weight="bold" fill="#1A1918">
                     <tspan x="53" y="16">Classes</tspan>
                 </text>
@@ -75,6 +55,28 @@
                     <tspan x="121" y="303" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal">Digital Media</tspan>
                     <tspan x="121" y="319" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal">Social Uses of Media</tspan>
                 </text>
+                <text id="2015" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#1A1918">
+                    <tspan x="100.767857" y="41.2719205"></tspan>
+                    <tspan x="72.9278571" y="57.2719205">2015</tspan>
+                    <tspan x="72.9278571" y="73.2719205">2015</tspan>
+                    <tspan x="72.9278571" y="89.2719205">2014</tspan>
+                    <tspan x="72.9278571" y="105.271921">2014</tspan>
+                    <tspan x="72.9278571" y="121.271921">2012</tspan>
+                    <tspan x="72.9278571" y="137.271921">2011</tspan>
+                    <tspan x="72.9278571" y="153.271921">2010</tspan>
+                </text>
+                <text id="2011" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#141413">
+                    <tspan x="101" y="174"></tspan>
+                    <tspan x="73" y="174"> </tspan>
+                    <tspan x="73.16" y="206">2011</tspan>
+                    <tspan x="73.16" y="222">2009</tspan>
+                </text>
+                <text id="2011---2012" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#141413">
+                    <tspan x="37.48" y="272">2011 - 2012</tspan>
+                    <tspan x="75.16" y="288">2011</tspan>
+                    <tspan x="75.16" y="304">2011</tspan>
+                    <tspan x="75.16" y="320">2009</tspan>
+                </text>
             </g>
             <g id="Skills" transform="translate(51.000000, 936.466708)">
                 <g id="Group-6" opacity="0.4">
@@ -82,7 +84,7 @@
                     <path d="M0.732325733,0.223776691 L650.843075,0.214141999" id="Stroke-15" stroke="#1A1918"></path>
                 </g>
                 <text font-family="AvenirNext-Bold, Avenir Next" font-size="13" font-weight="bold" fill="#1A1918">
-                    <tspan x="16.0208208" y="19.0626661">Skills</tspan>
+                    <tspan x="16.0208208" y="17.0626661">Skills</tspan>
                 </text>
                 <text id="Programing-Launages-" font-family="AvenirNext-Bold, Avenir Next" font-size="13" font-weight="bold" fill="#1A1918">
                     <tspan x="87" y="39.4827374">Programing Launages and Frameworks</tspan>
@@ -199,7 +201,7 @@
                 <polygon id="Fill-4" fill-opacity="0.4" fill="#B4B5B4" points="2 25.8355337 648.67101 25.8355337 648.67101 0.366435951 2 0.366435951"></polygon>
                 <path d="M0,1.01787916 L651.257329,1.01787916" id="Stroke-6" stroke="#1A1918" opacity="0.4"></path>
                 <text font-family="AvenirNext-Bold, Avenir Next" font-size="12.5714286" font-weight="bold" fill="#1A1918">
-                    <tspan x="9" y="16.0536375">Solo Exhibitions</tspan>
+                    <tspan x="9" y="18.0536375">Solo Exhibitions</tspan>
                 </text>
                 <text id="(Dis)connect,-Collee" font-family="AvenirNext-Regular, Avenir Next" font-size="12.5714286" font-weight="normal" fill="#1A1918">
                     <tspan x="84" y="52.7248995">(Dis)connect, Colleen Buzzard Studio, Rochester, NY</tspan>
@@ -246,7 +248,7 @@
                     <polygon id="Fill-16" fill="#B4B5B4" points="3 26.2431092 649.67101 26.2431092 649.67101 0.10377197 3 0.10377197"></polygon>
                 </g>
                 <text id="Info" font-family="AvenirNext-Bold, Avenir Next" font-size="13" font-weight="bold" fill="#141413">
-                    <tspan x="3" y="16.1795791">Brooklyn, NY  -  samsadtler.com  - sam.sadtler@gmail.com</tspan>
+                    <tspan x="3" y="16.1795791">Brooklyn, NY - samsadtler.com - sam.sadtler@gmail.com</tspan>
                     <tspan x="3" y="34.1795791">	</tspan>
                 </text>
             </g>

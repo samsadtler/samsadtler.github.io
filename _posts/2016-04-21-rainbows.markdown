@@ -9,5 +9,6 @@ img: /img/chanceofrainbows.jpg
 ---
 <div class="col-xs-11">
 	<img src="/img/chanceofrainbows.jpg" class="img-responsive" alt="Responsive image"/>
-	<p class="text-align-left"> The first rainbow app of its kind. Chance of Rainbows, detects where a user is and based on a number of conditions (largely environmental) they are given the chance of seeing a rainbow at the present moment</p>
+	<p class="text-align-left"> How can we re-frame our worldview of relying on technology to manifesting a playful take on how we see the weather? So what if it’s going to rain? There might be a rainbow! Weather predictions that yield a new take on the drab subject of meteorology. It might even get you to look away from your phone.
+</p>
 </div>

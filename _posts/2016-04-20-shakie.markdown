@@ -11,3 +11,6 @@ img: /img/shakie-hand.jpg
 	<iframe width="100%" height="480" src="https://www.youtube.com/embed/8-9-8u0JUWc?list=PLp1AzLEITCFxnF3zXRn5ZErynB5Vg5Ynr" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<p> 
+Make life spontaneous again! Start taking selfies by shaking your phone. Share the moment with your friends and colleagues, while making fun of the vanity of taking a selfie.
+</p>

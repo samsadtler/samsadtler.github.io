@@ -13,7 +13,7 @@ img: /img/crete.png
 <div class="row">
 	<div class="col-xs-1"></div>
 	<div class="col-xs-10">
-		<p>Crete, vibrations are a reminder to be in the present moment and connect to earth (literally). It is a complex reminder that technology is part of us but it can also be used to enhance our awareness (if it does sufficiently little).</p>
+		<p>Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.</p>
 	</div>
 </div>
 
