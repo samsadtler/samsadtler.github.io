@@ -8,26 +8,21 @@ permalink: fears
 img: /img/fears.png
 ---
 
-<div class="col-xs-6">
-	<img src="/img/fears-2.jpg" class="img-responsive" alt="Responsive image">
+<div class="col-xs-12">
+	<img src="/img/fears-2.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
-<div class="col-xs-6">
-	<img src="/img/fears-3.jpg" class="img-responsive" alt="Responsive image">
+<div class="col-xs-12">
+	<img src="/img/fears-3.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
-<div class="row">
+<div class="col-xs-12">
+		<img src="/img/fears.jpg" class="img-responsive center-block" alt="Responsive image">
+</div>
 
-	<div class="col-xs-6">
-		<img src="/img/fears.jpg" class="img-responsive" alt="Responsive image">
-	</div>
-
-	<div class="col-xs-6">
-		<img src="/img/fears-4.jpg" class="img-responsive" alt="Responsive image">
-	</div>
+<div class="col-xs-12">
+		<img src="/img/fears-4.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
-<div class="row">
-	<div class="col-xs-6">
-		<img src="/img/fears-5.jpg" class="img-responsive" alt="Responsive image">
-	</div>
+<div class="col-xs-12">
+		<img src="/img/fears-5.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
 <!-- Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help]. -->
 
