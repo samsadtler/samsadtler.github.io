@@ -23,9 +23,9 @@ img: /img/zombie-hand.jpg
 </div>
 <!-- <div class="col-xs-1"></div> -->
 <div class="col-xs-12">
-	<img src="/img/zombie-hand.jpg" class="img-responsive" alt="Responsive image"/>
+	<img src="/img/zombie-edit.jpg" class="img-responsive" alt="Responsive image"/>
 </div>
-
+<!-- 
 <div class="col-xs-12">
 	<img src="/img/zombiecrossing.png" class="img-responsive" alt="Responsive image"/>
-</div>
+</div> -->
