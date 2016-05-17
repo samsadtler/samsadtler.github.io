@@ -14,6 +14,8 @@ img: /img/zombieframe.jpg
 <div class="col-xs-12">
 
 	<p>
+		An updated version of the standard pedestrian sign seen in use to today. A commentary on the outdated state of urban infrastructure and the embodied presence of technology in our environments.
+
 		Zombie Crossing confronts the reality that more pedestrians are hit by cars now than before because they are enamored in their phones. Zombie Crossing, is an update to pedestrian crossing signs. Designed to help create awareness for drivers that pedestrians are on the phones while in the street and it is a reality of driving. For pedestrians it reflects the fact that this is their relationship to their phones.
 		
 	</p>
