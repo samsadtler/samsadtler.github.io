@@ -5,7 +5,7 @@ date:   2016-04-20 21:00:30
 categories: zombie-self-awareness
 description: Updating Dated Civic Architecture
 permalink: zombie
-img: /img/zombie-hand.jpg
+img: /img/zombieframe.jpg
 ---
 
 <div>
@@ -23,7 +23,7 @@ img: /img/zombie-hand.jpg
 </div>
 <!-- <div class="col-xs-1"></div> -->
 <div class="col-xs-12">
-	<img src="/img/zombie-edit.jpg" class="img-responsive" alt="Responsive image"/>
+	<img src="/img/zombieframe.jpg" class="img-responsive" alt="Responsive image"/>
 </div>
 
 <div class="col-xs-12">
