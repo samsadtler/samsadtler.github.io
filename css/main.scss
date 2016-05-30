@@ -69,7 +69,7 @@ a, :link, :visited{
 body{
   font-family: $font-stack;
   background-color: $body-bg;
-  color: black;
+  color: $text-color;
   list-style: none;
   padding: 0px;
   font-size: $text-size;
