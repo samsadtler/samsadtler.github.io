@@ -8,6 +8,7 @@ $icon-font-path: "/node_modules/bootstrap-sass/assets/fonts/bootstrap/";
 
 /* custom variable */
 $body-bg: white;
+$title-size: 35px;
 $text-color: black;
 $text-size: 23px;
 $font-stack: 'Avenir Next', 'Roboto', sans-serif;
@@ -94,6 +95,9 @@ img{
 
 
 }
+.site-title{
+  font-size: $title-size;
+}
 .parallax-window {
     min-height: 600px;
     background: transparent;
@@ -102,7 +106,7 @@ img{
 /*  padding-left: 50px;
   padding-right: 50px; */
 }
-.post-view{
+/*.post-view{
    @media (max-width: 32em) {
     @include make-col-span(6);
   }
@@ -110,5 +114,5 @@ img{
     @include make-col-span(8);
   }
 }
-
+*/
 /* any style customization must be before the bootstrap import */
