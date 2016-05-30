@@ -9,7 +9,7 @@ layout: default
         {% for post in site.posts %}
         <!--     <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button> -->
 
-        <div class="col-xs-4"> 
+        <div class="col-md-4 col-sm-12"> 
             <div class="modal">
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     <h4>{{ post.description }}</h4>
