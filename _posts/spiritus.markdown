@@ -12,7 +12,7 @@ img: http://img.youtube.com/vi/KA9Q4EPLc90/0.jpg
 </div>
 <h2>Augmented Reality Narrative Story Game which interacts with the environment round the players</h2>
 <p>
-	My contributions involve integrating Bluetooth communication between the Android tablet, Unity and the Arduino driven receiver which controls the in room lights. As well as the development . 
+	My contributions involve integrating Bluetooth communication between the Android tablet, Unity and the Arduino driven receiver which controls the in room lights. As well as the development. 
 
 	<h3>Abstract:</h3>
 	Spiritus Chronomatix is an exploration using next-gen AR technologies to enable interesting story authoring and story experiences, blurring the lines between physical and virtual worlds and exploring a combination of both screen-based and gestural interactions.

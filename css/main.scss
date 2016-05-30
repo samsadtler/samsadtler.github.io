@@ -25,6 +25,11 @@ body{
 
 }
 
+.navbar-default {
+    background-color: $body-bg;
+    border-color: $body-bg;
+}
+
 ul {
     list-style: none;
 }
