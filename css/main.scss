@@ -106,13 +106,11 @@ img{
 /*  padding-left: 50px;
   padding-right: 50px; */
 }
-/*.post-view{
-   @media (max-width: 32em) {
-    @include make-col-span(6);
-  }
-  @media (min-width: 32.1em) {
-    @include make-col-span(8);
+
+@media (max-width: 992px) {
+  .icon{
+    max-height: 100%;
   }
 }
-*/
+
 /* any style customization must be before the bootstrap import */
