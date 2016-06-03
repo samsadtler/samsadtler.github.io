@@ -8,12 +8,12 @@ permalink: fears
 img: /img/fears.png
 ---
 
-
 <div class="col-xs-12">
-		<img src="/img/fears-5.jpg" class="img-responsive center-block" alt="Responsive image">
+		<img src="/img/fears.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
-<p >
-	"Fears of VR" was a collaboration between me and Cole Orloff. It represents our collective uncertainty about the world with this new form of technology. VR has the potential to untether us from our surrounding yet it prevents from truly touching anything. It explores the dystopic loneliness 
+
+<p class="p-break">
+	"Fears of VR" was a collaboration between Sam Sadtler and <a href="http://coleorloff.com/">Cole Orloff</a>. It represents our collective uncertainty about the world with this new form of technology. VR has the potential to untether us from our surrounding yet it prevents from truly touching anything. It explores the dystopic loneliness 
 </p>
 <div class="col-xs-12">
 	<img src="/img/fears-2.jpg" class="img-responsive center-block" alt="Responsive image">
@@ -22,7 +22,7 @@ img: /img/fears.png
 	<img src="/img/fears-3.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
 <div class="col-xs-12">
-		<img src="/img/fears.jpg" class="img-responsive center-block" alt="Responsive image">
+		<img src="/img/fears-5.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
 
 <div class="col-xs-12">
