@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skinner's Scanner"
-date:   2016-04-20 21:00:30
+date:   2015-04-18 21:00:30
 categories: Readmades
 description: Narrative Installation
 permalink: skinner

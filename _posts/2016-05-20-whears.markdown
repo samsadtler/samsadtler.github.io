@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WHEARS"
-date:   2015-05-20 21:00:30
+date:   2016-04-20 21:00:30
 categories: Making-Sense-of-Wearables
 description: A Device for connection and navigation
 permalink: whears
