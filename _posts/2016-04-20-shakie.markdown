@@ -12,5 +12,14 @@ img: /img/shakie-hand.jpg
 </div>
 
 <p> 
-Make life spontaneous again! Start taking selfies by shaking your phone. Share the moment with your friends and colleagues, while making fun of the vanity of taking a selfie.
+	Make life spontaneous again! Start taking selfies by shaking your phone. Share the moment with your friends and colleagues, while making fun of the vanity of taking a selfie.
+</p>
+<p>
+	Shakie, has been featured on <a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> inverse.com </a> during its coverage of the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
+</p>
+<div class="col-sm-12">
+	<img src="img/shakie-hand.jpg" class="img-responsive icon center-block" alt="Responsive image">
+</div>
+<p>
+	I designed Shakie with phonegap for iOS and it is currently in beta testing.
 </p>
