@@ -19,8 +19,9 @@ img: /img/post-text.jpg
 	</p>
 </div>
 <div class="col-sm-12">
-	<img src="img/mailbox-place.jpg" class="img-responsive center-block" alt="Responsive image">
+	<img src="img/mailbox-place.jpg" class="img-responsive center-block p-break" alt="Responsive image">
 </div>
+
 <div class="col-sm-12">
-	<img src="img/post-text-spread.jpg" class="img-responsive center-block" alt="Responsive image">
+	<img src="img/post-text-spread.jpg" class="img-responsive center-block p-break" alt="Responsive image">
 </div>
