@@ -20,5 +20,5 @@ img: /img/shakie-hand.jpg
 	<img src="img/shakie-hand.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
 <p>
-	I designed Shakie with phonegap for iOS and it is currently in beta testing.
+	Shakie was designed with phonegap for iOS and it is currently in beta testing.
 </p>
