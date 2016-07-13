@@ -18,9 +18,9 @@ img: /img/post-text.jpg
 		A way to give pause to the act of writing text messages by creating a means to share a long conversation with a friend. One which is about anticipation and excitement, yet fosters more attention and focus to the physical qualities of the exchange.
 	</p>
 </div>
-<div class="col-sm-6">
+<div class="col-sm-12">
 	<img src="img/mailbox-place.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
-<div class="col-sm-6">
+<div class="col-sm-12">
 	<img src="img/post-text-spread.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
