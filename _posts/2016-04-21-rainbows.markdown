@@ -8,12 +8,12 @@ permalink: rainbows
 img: /img/chanceofrainbows.jpg
 ---
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/Fx_oGtpTVf0" frameborder="0" allowfullscreen></iframe>
+<iframe class="p-break" width="100%" height="480" src="https://www.youtube.com/embed/Fx_oGtpTVf0" frameborder="0" allowfullscreen></iframe>
 
 <div class="col-xs-6">
 	<img src="/img/chanceofrainbows.jpg" class="img-responsive" alt="Responsive image"/>
 </div>
-<div class="col-xs-6 p-break">
+<div class="col-xs-6">
 	<p class="text-align-left"> How can we re-frame our worldview of relying on technology to manifesting a playful take on how we see the weather? So what if it’s going to rain? There might be a rainbow! Weather predictions that yield a new take on the drab subject of meteorology. It might even get you to look away from your phone.
 </p>
 </div>
