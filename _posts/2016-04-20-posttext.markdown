@@ -17,6 +17,10 @@ img: /img/post-text.jpg
 	<p class="text-sizing">
 		A way to give pause to the act of writing text messages by creating a means to share a long conversation with a friend. One which is about anticipation and excitement, yet fosters more attention and focus to the physical qualities of the exchange.
 	</p>
+	<p>
+
+		Part of the	<a href="www.samsadtler.com/apocalypse"> Zombie Self Awareness Kit</a>. 
+	</p>
 </div>
 <div class="col-sm-12">
 	<img src="img/mailbox-place.jpg" class="img-responsive center-block p-break" alt="Responsive image">

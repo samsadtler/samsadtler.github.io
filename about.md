@@ -3,11 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div class="row">
+	<div class="col-xs-2"></div>
+	<div class="col-xs-8">
+		Sam Sadtler is a Creative Technologist based in Brooklyn, NY who works at the intersection software and hardware development. He focuses on Web development, IoT and Wearable devices. He has his Master from the <a href="https://tisch.nyu.edu/itp"> Interactive Telecommunications Program </a> at NYU.
 
-Sam Sadtler is currently a second year Masters Candidate at the Interactive Telecommunications Program at NYU. Specializing in Web Development, Connected devices (IoT), Design, Wearables, and Bike riding.
+		His work focuses on our relationship to Smartphones and our involvement in the current <a href="www.samsadtler.com/apocalypse">Zombie Apocalypse </a>. His Wearable work has explores way to make technology enhance our senses as appose to diminishing them.
 
-His work has focuses on the intersection of technology, art, and it's relationship to us. His art is designed to be provocative focusing on specific types of technological devices such as Cathode Ray-tube Televisions at the brink of obsolescence that are desperately trying to convince us of their relevance and, if nothing else, to get our attention just long enough to say goodbye. Smartphones and Our involvement in the Current Zombie Apocalypse. House hold appliances Sam’s stunningly beautiful series of photographs teaches us about the beauty of the technology itself, its falsely accelerated shelf-life, and the consumer culture that pressures us to continuously buy the same technological object just because it is wrapped in a different package. His work has also focused on making technology enhance our senses as appose to diminishing them.
+		Sam has a B.S. in Mechanical Engineering at the University of Rochester, NY. 
+	</div>
+</div>
 
-Sam grew up in Concord, MA and studied Mechanical Engineering at the University of Rochester in New York. He has always been passionate about the intersection of art and science. After completing a B.S. he was awarded a tuition free fifth year to study photography and media studies. His art work focused on questioning the sustainability of western society’s attitude towards the consumption of electronics. Using appliances as his medium he created photos, videos, and installation pieces.
- 
  

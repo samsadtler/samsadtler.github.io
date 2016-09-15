@@ -8,7 +8,7 @@ permalink: fears
 img: /img/fears.png
 ---
 
-<div class="col-xs-12">
+<div class="col-xs-12 p-break">
 		<img src="/img/fears.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
 

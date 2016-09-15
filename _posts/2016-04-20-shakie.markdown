@@ -22,3 +22,7 @@ img: /img/shakie-hand.jpg
 <p>
 	Shakie was designed with phonegap for iOS and it is currently in beta testing.
 </p>
+<p>
+
+		Part of the	<a href="www.samsadtler.com/apocalypse"> Zombie Self Awareness Kit</a>. 
+	</p>
