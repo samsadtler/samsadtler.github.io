@@ -16,9 +16,7 @@ img: /img/shakie-hand.jpg
 
 		Shakie, has been featured on <a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> inverse.com </a> during its coverage of the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
 	</p>
-	<a href="https://itunes.apple.com/us/app/shakie-selfie/id1084179854?mt=8">
-		<img src="img/appstore.svg"/>
-	</a>
+	
 </div>
 
 <div class="col-sm-12">
@@ -26,6 +24,9 @@ img: /img/shakie-hand.jpg
 </div>
 <p>
 	Shakie was designed with phonegap for iOS and it is currently in beta testing.
+	<a href="https://itunes.apple.com/us/app/shakie-selfie/id1084179854?mt=8">
+		<img src="img/appstore.svg"/>
+	</a>
 </p>
 <p>
 
