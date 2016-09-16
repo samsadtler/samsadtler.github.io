@@ -3,10 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-  <div class="wrapper">
+<div class="wrapper">
 
     <div class="row">
-    <div class="col-md-1"></div>
+    <div class="col-md-4"></div>
       <div>
         <ul class="col-md-3" >
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -34,11 +34,4 @@ permalink: /contact/
         <div class="col-md-1"></div>
     </div>
         
-    <div class="row">
-        <div class="col-md-1"></div>
-            <div class="col-md-10">
-                <p class="text">{{ site.description }}</p>
-            </div>
-        </div>
-  </div>
 </div>
