@@ -7,7 +7,7 @@ permalink: /about/
 <div class="row">
 <!-- <div class="col-sm-1"></div> -->
 	<div class="col-sm-4">
-		<img src="img/headshot-crop.jpg" class="img-responsive icon center-block" alt="Responsive image">
+		<img src="../img/headshot-crop.jpg" class="img-responsive icon center-block" alt="Responsive image">
 	</div>
 	<div class="col-xs-7">
 		Sam Sadtler is a Creative Technologist based in Brooklyn, NY who works at the intersection software and hardware development. He focuses on Web development, IoT and Wearable devices. He has his Master from the <a href="https://tisch.nyu.edu/itp"> Interactive Telecommunications Program </a> at NYU.
