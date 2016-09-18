@@ -16,17 +16,18 @@ permalink: /contact/
 
                 {% if site.github_username %}
                 <li>
-                <h4>Github: </h4>
-                    <a href="https://github.com/{{ site.github_username }}">{{ site.github_username }}</a>
+                    <a href="https://github.com/{{ site.github_username }}">
+                        <img src="../img/github.png">
+                    </a>
                 </li>
                 {% endif %}
             </ul>
              <ul class=" social-media-list col-md-3">
                 {% if site.twitter_username %}
                 <li>
-                    <h4>Twitter: </h4>
                     <a href="https://twitter.com/{{ site.twitter_username }}">
-                    <span class="username">{{ site.twitter_username }}</span>
+                        <img src="../img/twitter.png">
+
                     </a>
                 </li>
                 {% endif %}
