@@ -6,46 +6,52 @@ permalink: /contact/
 <div class="wrapper">
 
     <div class="row">
-    <div class="col-md-4"></div>
-      <div>
-            <form  class="col-md-4" action="https://formspree.io/{{ site.email }}"
+    <div class="col-md-2"></div>
+      <div >
+            <form class="form-group col-md-8" action="https://formspree.io/{{ site.email }}"
                   method="POST">
                   <ul>
                         <li>
-                            <input type="text" name="name" placeholder="Your Name">
+                            <div class="col-md-8">
+                                <input class="form-control" type="text" name="name" placeholder="Your Name">
+                            </div>
                         </li>
                         <li>
-                            <input type="email" name="_replyto" placeholder="Your Email">    
+                            <div class="col-md-8">
+                                <input class="form-control" type="email" name="_replyto" placeholder="Your Email"> 
+                            </div>  
                         </li>
                         <li>
-                             <textarea name="message" placeholder="Your message"></textarea>
+                             <div class="col-md-8">
+                                 <textarea class="form-control" name="message" placeholder="Your message"></textarea>
+                            </div>
                         </li>
                         <li>
-                            <input type="submit" value="Send">
+                             <div class="col-md-8">
+                                <input class="form-control" type="submit" value="Send">
+                            </div>
                         </li>
                   </ul>     
             </form>
-     
-            <ul class=" social-media-list col-md-3">
+           <!--  <div class="col-md-2"></div> -->
+            <div class=" col-md-8 social-media-list">
 
                 {% if site.github_username %}
-                <li>
+        
                     <a href="https://github.com/{{ site.github_username }}">
                         <img src="../img/github.png">
                     </a>
-                </li>
+              
                 {% endif %}
-            </ul>
-             <ul class=" social-media-list col-md-3">
                 {% if site.twitter_username %}
-                <li>
+                
                     <a href="https://twitter.com/{{ site.twitter_username }}">
                         <img src="../img/twitter.png">
 
                     </a>
-                </li>
+            
                 {% endif %}
-            </ul>
+            </div>
         <div class="col-md-1"></div>
     </div>
         
