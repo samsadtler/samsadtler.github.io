@@ -8,9 +8,23 @@ permalink: /contact/
     <div class="row">
     <div class="col-md-4"></div>
       <div>
-        <ul class="col-md-3" >
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+            <form  class="col-md-4" action="https://formspree.io/{{ site.email }}"
+                  method="POST">
+                  <ul>
+                        <li>
+                            <input type="text" name="name" placeholder="Your Name">
+                        </li>
+                        <li>
+                            <input type="email" name="_replyto" placeholder="Your Email">    
+                        </li>
+                        <li>
+                             <textarea name="message" placeholder="Your message"></textarea>
+                        </li>
+                        <li>
+                            <input type="submit" value="Send">
+                        </li>
+                  </ul>     
+            </form>
      
             <ul class=" social-media-list col-md-3">
 
