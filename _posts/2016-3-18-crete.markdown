@@ -38,11 +38,12 @@ img: /img/crete-wire.jpg
 
 	<img src="img/crete-process-4.jpg" class="col-xs-6 img-responsive center-block" alt="Responsive image">
 	<img src="img/crete-process-3.jpg" class=" col-xs-6 img-responsive center-block" alt="Responsive image">
-	<p>
+	<div class="col-xs-10">
 		<br>
+
 		(left is initial attempt at making a concrete block which was relatively close to the form factor we wanted. The issue we ran into was that the block was to then and there was not enough mold release used.)
 		(Right is a picture of the final product being created. The circuits have been encased in liquid tape to prevent moister from the curing process to effect the circuit.)
-	</p>
+	</div>
 	<div class="col-xs-6">
 		<img src="img/crete-wire.jpg" class=" img-responsive center-block" alt="Responsive image">
 	</div>
