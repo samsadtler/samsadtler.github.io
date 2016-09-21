@@ -23,8 +23,10 @@ img: /img/crete-wire.jpg
 	</div>
 	<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
 	<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
-	<img src="img/crete-process-3.jpg" class="img-responsive center-block" alt="Responsive image">
-	<img src="img/crete-process-4.jpg" class="img-responsive center-block" alt="Responsive image">
+	<img src="img/crete-process-4.jpg" class="col-xs-6 img-responsive center-block" alt="Responsive image">
+	<img src="img/crete-process-3.jpg" class=" col-xs-6 img-responsive center-block" alt="Responsive image">
+	<img src="img/crete-wire.jpg.jpg" class="" img-responsive center-block" alt="Responsive image">
+	
 </div>
 <div>
 	<iframe width="100%" height="480" src="https://www.youtube.com/embed/GyFxrQd7-zw?list=PLp1AzLEITCFxnF3zXRn5ZErynB5Vg5Ynr" frameborder="0" allowfullscreen></iframe>
