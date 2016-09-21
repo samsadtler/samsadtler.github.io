@@ -7,9 +7,10 @@ description: Design to help users disconnect from their everyday lives through t
 permalink: crete
 img: /img/crete-wire.jpg
 ---
-
-<div class="embed-responsive embed-responsive-16by9">
+<div class="row">
+	<div class="embed-responsive embed-responsive-16by9">
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hJkIgraE530" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 
 <div class="row">
@@ -21,14 +22,16 @@ img: /img/crete-wire.jpg
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 		</p>
 	</div>
-	<div class="col-md-6">
-			<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
-	</div>
+	<div class="row">
+		
+		<div class="col-md-6">
+				<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
+		</div>
 
-	<div class="col-md-6">
-		<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
+		<div class="col-md-6">
+			<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
+		</div>
 	</div>
-	
 	<div class="col-md-6">
 		<img src="img/crete-process-4.jpg" class="img-responsive center-block" alt="Responsive image">
 		left: is initial attempt at making a concrete block which was relatively close to the form factor we wanted. The issue we ran into was that the block was to then and there was not enough mold release used.
