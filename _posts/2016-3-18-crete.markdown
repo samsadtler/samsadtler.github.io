@@ -15,6 +15,7 @@ img: /img/crete-wire.jpg
 <div class="row">
 	<div class="col-xs-1"></div>
 	<div class="col-xs-10">
+		<img src="img/crete-wire.jpg" class="col-md-6 img-responsive center-block" alt="Responsive image">
 		<p>Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.</p>
 		<br>
 		<p>
@@ -35,16 +36,22 @@ img: /img/crete-wire.jpg
 		<br>
 
 	</p>
-
-	<img src="img/crete-process-4.jpg" class="col-xs-6 img-responsive center-block" alt="Responsive image">
-	<img src="img/crete-process-3.jpg" class=" col-xs-6 img-responsive center-block" alt="Responsive image">
+	<div class="col-md-6">
+		<img src="img/crete-process-4.jpg" class="img-responsive center-block" alt="Responsive image">
+		left: is initial attempt at making a concrete block which was relatively close to the form factor we wanted. The issue we ran into was that the block was to then and there was not enough mold release used.
+	</div>
+	<div class="col-md-6">
+		<img src="img/crete-process-3.jpg" class=" 
+		img-responsive center-block" alt="Responsive image">
+		Right: is a picture of the final product being created. The circuits have been encased in liquid tape to prevent moister from the curing process to effect the circuit.
+	</div>
 	<div class="col-md-12">
 
-		(left is initial attempt at making a concrete block which was relatively close to the form factor we wanted. The issue we ran into was that the block was to then and there was not enough mold release used.)
-		(Right is a picture of the final product being created. The circuits have been encased in liquid tape to prevent moister from the curing process to effect the circuit.)
+		
+	
 	</div>
 	<div class="col-xs-6">
-		<img src="img/crete-wire.jpg" class=" img-responsive center-block" alt="Responsive image">
+		
 	</div>
 </div>
 <div>
