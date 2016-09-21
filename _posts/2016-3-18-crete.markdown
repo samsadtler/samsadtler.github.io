@@ -25,7 +25,7 @@ img: /img/crete-wire.jpg
 	<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
 	<img src="img/crete-process-4.jpg" class="col-xs-6 img-responsive center-block" alt="Responsive image">
 	<img src="img/crete-process-3.jpg" class=" col-xs-6 img-responsive center-block" alt="Responsive image">
-	<img src="img/crete-wire.jpg.jpg" class=" img-responsive center-block" alt="Responsive image">
+	<img src="img/crete-wire.jpg" class=" img-responsive center-block" alt="Responsive image">
 	
 </div>
 <div>
