@@ -15,24 +15,22 @@ img: /img/crete-wire.jpg
 
 <div class="row p-break">
 	<!-- <div class="col-xs-1"></div> -->
-	<div class="col-xs-12">
-		<img src="img/crete-wire.jpg" class="col-md-6 img-responsive center-block" alt="Responsive image">
-		<p class="col-md-6">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.
+		<img src="img/crete-wire.jpg" class="col-md-6 p-break img-responsive center-block" alt="Responsive image">
+		<p class="col-md-6 p-break">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.
 		<br>
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 		</p>
+</div>
+<div class="row p-break">	
+	<div class="col-md-6">
+			<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
 	</div>
-	<div class="row p-break">
-		
-		<div class="col-md-6">
-				<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
-		</div>
 
-		<div class="col-md-6">
+	<div class="col-md-6">
 			<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
-		</div>
 	</div>
-	<div class="row p-break">
+</div>
+<div class="row p-break">
 		<div class="col-md-6">
 			<img src="img/crete-process-4.jpg" class="img-responsive center-block" alt="Responsive image">
 			<p class="caption">
@@ -43,14 +41,12 @@ img: /img/crete-wire.jpg
 		<div class="col-md-6">
 			<img src="img/crete-process-3.jpg" class=" 
 			img-responsive center-block" alt="Responsive image">
-			<p class="caption">
-				right: is a picture of the final product being created. The circuits have been encased in liquid tape to prevent moister from the curing process to effect the circuit.
-			</p>
-			
-		</div>
+		<p class="caption">
+			right: is a picture of the final product being created. The circuits have been encased in liquid tape to prevent moister from the curing process to effect the circuit.
+		</p>		
 	</div>
-	
-	<div class="p-break"></div>
+</div>
+<div class="p-break"></div>
 </div>
 <div>
 	<iframe width="100%" height="480" src="https://www.youtube.com/embed/GyFxrQd7-zw?list=PLp1AzLEITCFxnF3zXRn5ZErynB5Vg5Ynr" frameborder="0" allowfullscreen></iframe>
