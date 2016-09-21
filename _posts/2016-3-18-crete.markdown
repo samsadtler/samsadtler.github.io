@@ -15,7 +15,7 @@ img: /img/crete-wire.jpg
 
 <div class="row p-break">
 		<img src="img/crete-wire.jpg" class="col-md-6 p-break img-responsive center-block" alt="Responsive image">
-		<p class="col-md-6 p-break">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.
+		<p class="col-md-6 p-break">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when they are not mindful. Created in collaboration with <a href="site.oryan">Oryan Inbar</a>
 		<br>
 		<br>
 		<br>
@@ -33,7 +33,7 @@ img: /img/crete-wire.jpg
 	<div class="col-md-6">
 			<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
 			<p class="caption">
-			approximates the amount of room the final circuit will take up in Crete. Note: we didn't use the mic.
+			approximates the amount of room the final circuit will take up in Crete.
 		</p>		
 	</div>
 </div>
