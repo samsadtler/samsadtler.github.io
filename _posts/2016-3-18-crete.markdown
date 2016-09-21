@@ -16,9 +16,8 @@ img: /img/crete-wire.jpg
 	<div class="col-xs-1"></div>
 	<div class="col-xs-10">
 		<img src="img/crete-wire.jpg" class="col-md-6 img-responsive center-block" alt="Responsive image">
-		<p class="col-md-6">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.</p>
+		<p class="col-md-6">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.
 		<br>
-		<p>
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 		</p>
 	</div>
