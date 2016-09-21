@@ -14,7 +14,6 @@ img: /img/crete-wire.jpg
 </div>
 
 <div class="row p-break">
-	<!-- <div class="col-xs-1"></div> -->
 		<img src="img/crete-wire.jpg" class="col-md-6 p-break img-responsive center-block" alt="Responsive image">
 		<p class="col-md-6 p-break">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when there are not mindful.
 		<br>
@@ -24,17 +23,23 @@ img: /img/crete-wire.jpg
 <div class="row p-break">	
 	<div class="col-md-6">
 			<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
+			<p class="caption">
+			The completed circuit design to make sure that Crete worked as advertised. Features a <a href="https://punchthrough.com/bean">Light Blue Bean</a> with BLE, a 105mAh battery plus a voltage regulator and battery charger.
+		</p>		
 	</div>
 
 	<div class="col-md-6">
 			<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
+			<p class="caption">
+			approximates the amount of room the final circuit will take up in Crete. Note: we didn't use the mic.
+		</p>		
 	</div>
 </div>
 <div class="row p-break">
 		<div class="col-md-6">
 			<img src="img/crete-process-4.jpg" class="img-responsive center-block" alt="Responsive image">
 			<p class="caption">
-				left: is initial attempt at making a concrete block which was relatively close to the form factor we wanted. The issue we ran into was that the block was to then and there was not enough mold release used.
+				left: is initial attempt at making a concrete block which was relatively close to the form factor we wanted. The issue we ran into was that the block was to thin and we did not use enough mold release which resulted in the block breaking.
 			</p>
 		
 		</div>
