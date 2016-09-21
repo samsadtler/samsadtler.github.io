@@ -21,14 +21,14 @@ img: /img/crete-wire.jpg
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 		</p>
 	</div>
-	<div class="col-xs-6">
+	<div class="col-md-6">
 			<img src="img/crete-process.jpg" class="img-responsive center-block" alt="Responsive image">
 	</div>
 
 	<p>
 		
 	</p>
-	<div class="col-xs-6">
+	<div class="col-md-6">
 		<img src="img/crete-process-2.jpg" class="img-responsive center-block" alt="Responsive image">
 	</div>
 	<p>
