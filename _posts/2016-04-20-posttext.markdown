@@ -18,8 +18,7 @@ img: /img/post-text.jpg
 		A way to give pause to the act of writing text messages by creating a means to share a long conversation with a friend. One which is about anticipation and excitement, yet fosters more attention and focus to the physical qualities of the exchange.
 	</p>
 	<p>
-
-		Part of the	<a href="www.samsadtler.com/apocalypse"> Zombie Self Awareness Kit</a>. 
+	Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 	</p>
 </div>
 <div class="col-sm-12">

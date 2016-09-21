@@ -21,7 +21,7 @@ img: /img/zombieframe.jpg
 	</p>
 	<p>
 
-		Part of the	<a href="www.samsadtler.com/apocalypse"> Zombie Self Awareness Kit</a>. 
+			Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 	</p>
 </div>
 <!-- <div class="col-xs-1"></div> -->
