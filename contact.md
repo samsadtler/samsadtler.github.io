@@ -6,10 +6,11 @@ permalink: /contact/
 <div class="wrapper">
 
     <div class="row">
-    <!-- <div class="col-md-2"></div> -->
+    
       <div >
             <form class="form-group col-md-12" action="https://formspree.io/{{ site.email }}"
                   method="POST">
+                  <div class="col-md-2"></div>
                   <ul>
                         <li>
                             <div class="col-md-8">
