@@ -13,11 +13,11 @@ img: /img/shakie-hand.jpg
 <div class="col-sm-6">
 	<img src="img/shakie-hand.jpg" class="img-responsive center-block" alt="Responsive image">
 </div>
-<div class="col-xs-6">
+<div class="col-sm-6">
 	<p> 
 		Make life spontaneous again! Start taking selfies by shaking your phone. Share the moment with your friends and colleagues, while making fun of the vanity of taking a selfie.
-
-		<a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> Inverse.com </a> said "Sometimes life is a blur, and now you can capture that sentiment and hold onto it forever" during coverage of Shakie in the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
+		<br>
+		<a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> Inverse.com </a> said "sometimes life is a blur, and now you can capture that sentiment and hold onto it forever" during coverage of Shakie in the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
 	<br>
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 	</p>

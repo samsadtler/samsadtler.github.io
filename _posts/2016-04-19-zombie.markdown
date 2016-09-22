@@ -11,7 +11,10 @@ img: /img/zombieframe.jpg
 <div>
 	<iframe width="100%" height="480" src="https://www.youtube.com/embed/raWhliAt30c" frameborder="0" allowfullscreen></iframe>
 </div>
-<div class="col-xs-12">
+<div class="col-sm-12 p-break">
+	<img src="/img/zombiecrossing.png" class="img-responsive" alt="Responsive image"/>
+</div>
+<div class="col-sm-6 p-break">
 
 	<p>
 		An updated version of the standard pedestrian sign seen in use to today. A commentary on the outdated state of urban infrastructure and the embodied presence of technology in our environments.
@@ -25,10 +28,8 @@ img: /img/zombieframe.jpg
 	</p>
 </div>
 <!-- <div class="col-xs-1"></div> -->
-<div class="col-xs-12">
+<div class="col-sm-12">
 	<img src="/img/zombieframe.jpg" class="img-responsive" alt="Responsive image"/>
 </div>
 
-<div class="col-xs-12">
-	<img src="/img/zombiecrossing.png" class="img-responsive" alt="Responsive image"/>
-</div>
+
