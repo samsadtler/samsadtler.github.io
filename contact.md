@@ -13,24 +13,22 @@ permalink: /contact/
                   <div class="col-md-2"></div>
                   <ul class="col-md-8">
                         <li>
-                            <div class="col-md-8">
+            
                                 <input class="form-control" type="text" name="name" placeholder="Your Name">
-                            </div>
+      
                         </li>
                         <li>
-                            <div class="col-md-8">
+     
                                 <input class="form-control" type="email" name="_replyto" placeholder="Your Email"> 
-                            </div>  
+                 
                         </li>
                         <li>
-                             <div class="col-md-8">
                                  <textarea class="form-control" name="message" placeholder="Your message"></textarea>
-                            </div>
                         </li>
                         <li>
-                             <div class="col-md-8">
+                            
                                 <input class="form-control" type="submit" value="Send">
-                            </div>
+                         
                         </li>
                   </ul>     
             </form>
