@@ -17,11 +17,8 @@ img: /img/shakie-hand.jpg
 	<p> 
 		Make life spontaneous again! Start taking selfies by shaking your phone. Share the moment with your friends and colleagues, while making fun of the vanity of taking a selfie.
 
-		Shakie, has been featured on <a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> inverse.com </a> during its coverage of the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
-	</p>
+		<a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> Inverse.com </a> said "Sometimes life is a blur, and now you can capture that sentiment and hold onto it forever" during coverage of Shakie in the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
 	<br>
-	<p>
-
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 	</p>
 	
