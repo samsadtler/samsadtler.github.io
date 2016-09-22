@@ -11,7 +11,7 @@ img: /img/zombieframe.jpg
 <div>
 	<iframe width="100%" height="480" src="https://www.youtube.com/embed/raWhliAt30c" frameborder="0" allowfullscreen></iframe>
 </div>
-<div class="col-sm-12 p-break">
+<div class="col-sm-6 p-break">
 	<img src="/img/zombiecrossing.png" class="img-responsive" alt="Responsive image"/>
 </div>
 <div class="col-sm-6 p-break">
