@@ -11,7 +11,7 @@ permalink: /about/
 	</div>
 	<div class="col-xs-8">
 		<p>
-			Sam Sadtler is a creative technologist with a background in mechanical engineering based in Brooklyn, NY who works at the intersection of software and hardware. He focuses on Web development, IoT and Wearable devices. He has his Masters from the <a href="https://tisch.nyu.edu/itp"> Interactive Telecommunications Program </a> at NYU.
+			Sam Sadtler is a creative technologist with a background in mechanical engineering based in Brooklyn, NY. He works at the intersection of software and hardware. Currently he focuses on Web development, IoT and Wearable devices. He has his Masters from the <a href="https://tisch.nyu.edu/itp"> Interactive Telecommunications Program </a> at NYU.
 		<br>
 		</p>
 		<p>
