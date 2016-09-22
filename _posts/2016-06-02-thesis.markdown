@@ -18,31 +18,36 @@ img: /img/thesis.png
 </div>
 <div class="row p-break">
 	
-	<div class="col-sm-5">
-			<img src="img/crete.png" class="img-responsive icon center-block" alt="Responsive image">
-	</div>
-	<div class="col-sm-5 center-block">
-		<a href="http://www.samsadtler.com/crete">Crete </a>- is the first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when they are being unconscious.
-		<br>
-	</div>
-
+<div class="col-sm-5">
+	<img src="img/crete.png" class="img-responsive icon center-block" alt="Responsive image">
+</div>
+<div class="col-sm-5 center-block">
+	<a href="http://www.samsadtler.com/crete">Crete </a>
+	<br>
+	is the first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when they are being unconscious.
+	<br>
+</div>
 </div>
 <div class="row p-break">
 	<div class="col-sm-5">
 		<img src="img/post-text.jpg" class="img-responsive icon center-block" alt="Responsive image">
 	</div>
 		
-	<div class="col-sm-5">
-			<a href="http://www.samsadtler.com/posttext">Post Text</a> - is a way to give pause to text messages by creating a means to share a long conversation with a friend. It is about anticipation and excitement, yet fosters more attention and focus to the quality omitted from text messages, such as handwriting.
-	</div>
+<div class="col-sm-5">
+	<a href="http://www.samsadtler.com/posttext">Post Text</a>
+	<br>
+	is a way to give pause to text messages by creating a means to share a long conversation with a friend. It is about anticipation and excitement, yet fosters more attention and focus to the quality omitted from text messages, such as handwriting.
+</div>
 </div>
 <div class="row">
 
-	<div class="col-sm-5">
+<div class="col-sm-5">
 		<img src="img/shakie-hand.jpg" class="img-responsive icon center-block" alt="Responsive image">
-	</div>
-	<div class="col-sm-5">
-		<a href="http://www.samsadtler.com/shakie">Shakie Selfie</a> - makes life spontaneous again when you start taking selfies by shaking your phone. Share the moment with your friends and colleagues, by making fun of the beautiful moment of taking a selfie. (WARNING: likely to create artistically blurred photos)
+</div>
+<div class="col-sm-5">
+		<a href="http://www.samsadtler.com/shakie">Shakie Selfie</a> 
+		<br>
+		makes life spontaneous again when you start taking selfies by shaking your phone. Share the moment with your friends and colleagues, by making fun of the beautiful moment of taking a selfie. (WARNING: likely to create artistically blurred photos)
 	</div>
 </div>
 <div class="row p-break">
@@ -53,7 +58,9 @@ img: /img/thesis.png
 
 <div class="col-sm-5">
 		<p>
-			<a href="http://www.samsadtler.com/rainbows">Chance of Rainbows</a> - is about re-framing our world view from relying on technology to manifesting a playful take on how we see the weather. So what if it's going to rain? There might be a rainbow. Calculating the angle of incidence of sunlight on rain into the human eye and then combining that information with time of day and weather predictions yields a new take on a drab subject. It might even get you to look away from your phone.
+			<a href="http://www.samsadtler.com/rainbows">Chance of Rainbows</a> 
+			<br>
+			is about re-framing our world view from relying on technology to manifesting a playful take on how we see the weather. So what if it's going to rain? There might be a rainbow. Calculating the angle of incidence of sunlight on rain into the human eye and then combining that information with time of day and weather predictions yields a new take on a drab subject. It might even get you to look away from your phone.
 		</p>
 	</div>
 </div>
@@ -62,7 +69,9 @@ img: /img/thesis.png
 		<img src="img/zombie-hand.jpg" class="img-responsive icon center-block" alt="Responsive image">
 	</div>
 	<div class="col-sm-5">
-		<a href="http://www.samsadtler.com/zombie">Zombie Crossing </a>	- Sign is an updated version of the standard pedestrian sign seen in use to today. It is my civic suggestion on how to update our dated infrastructure.
+		<a href="http://www.samsadtler.com/zombie">Zombie Crossing </a>
+		<br>
+		Sign is an updated version of the standard pedestrian sign seen in use to today. It is my civic suggestion on how to update our dated infrastructure.
 					
 	</div>
 </div>
