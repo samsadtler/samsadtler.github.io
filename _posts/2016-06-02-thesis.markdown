@@ -51,7 +51,7 @@ img: /img/thesis.png
 		<img src="img/chanceofrainbows.jpg" class="img-responsive icon center-block" alt="Responsive image">
 	</div>
 
-	<div class="col-sm-5">
+<div class="col-sm-5">
 		<p>
 			<a href="http://www.samsadtler.com/rainbows">Chance of Rainbows</a> - is about re-framing our world view from relying on technology to manifesting a playful take on how we see the weather. So what if it's going to rain? There might be a rainbow. Calculating the angle of incidence of sunlight on rain into the human eye and then combining that information with time of day and weather predictions yields a new take on a drab subject. It might even get you to look away from your phone.
 		</p>
