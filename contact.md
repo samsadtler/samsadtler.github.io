@@ -8,10 +8,10 @@ permalink: /contact/
     <div class="row">
     
       <div >
-            <form class="form-group col-md-12" action="https://formspree.io/{{ site.email }}"
+            <form class="form-group" action="https://formspree.io/{{ site.email }}"
                   method="POST">
                   <div class="col-md-2"></div>
-                  <ul>
+                  <ul class="col-md-8">
                         <li>
                             <div class="col-md-8">
                                 <input class="form-control" type="text" name="name" placeholder="Your Name">
@@ -34,7 +34,7 @@ permalink: /contact/
                         </li>
                   </ul>     
             </form>
-            <!-- <div class="col-md-2"></div> -->
+            <div class="col-md-2"></div>
             <div class=" col-md-8 social-media-list">
 
                 {% if site.github_username %}
