@@ -5,7 +5,6 @@ permalink: /about/
 ---
 <div class="container">
 <div class="row">
-<!-- <div class="col-sm-1"></div> -->
 	<div class="col-sm-4">
 		<img src="../img/headshot-crop.jpg" class="img-responsive icon center-block img-circle" alt="Responsive image">
 	</div>
