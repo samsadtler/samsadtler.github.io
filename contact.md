@@ -33,7 +33,7 @@ permalink: /contact/
                         </li>
                   </ul>     
             </form>
-           <!--  <div class="col-md-2"></div> -->
+            <div class="col-md-2"></div>
             <div class=" col-md-8 social-media-list">
 
                 {% if site.github_username %}
@@ -52,7 +52,7 @@ permalink: /contact/
             
                 {% endif %}
             </div>
-        <div class="col-md-1"></div>
+        <!-- <div class="col-md-1"></div> -->
     </div>
         
 </div>
