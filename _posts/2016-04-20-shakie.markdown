@@ -19,11 +19,12 @@ img: /img/shakie-hand.jpg
 
 		Shakie, has been featured on <a href="https://www.inverse.com/article/11379-5-brilliantly-stupid-hacks-from-the-terrible-ideas-hackathon"> inverse.com </a> during its coverage of the <a href="http://www.stupidhackathon.com/">Stupid Hackathon</a>
 	</p>
-	
-</div>
+	<br>
+	<p>
 
-<div class="col-sm-6">
-	<img src="img/shakie-hand.jpg" class="img-responsive center-block" alt="Responsive image">
+		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
+	</p>
+	
 </div>
 <p>
 	Shakie was designed with phonegap for iOS and is currently available.
@@ -31,7 +32,4 @@ img: /img/shakie-hand.jpg
 		<img src="img/appstore.svg"/>
 	</a>
 </p>
-<p>
 
-		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
-	</p>
