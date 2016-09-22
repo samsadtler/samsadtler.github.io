@@ -11,7 +11,12 @@ img: /img/thesis.png
 
 <div class="col-sm-12">
 		<p>
-			The Zombie Self Awareness Kit is a series of 5 interventions designed to reanimate our selves and create awareness around our relationship to our smart phones. In each of the projects in the kit focus on different aspects on our relationship with our phones.
+			The Zombie Self Awareness Kit is a series of 5 interventions designed to reanimate our selves and create awareness around our relationship to our smart phones. 
+
+		</p>
+		<br>
+		<p>
+			
 		</p>
 </div>
 <iframe src="https://player.vimeo.com/video/166993010" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
