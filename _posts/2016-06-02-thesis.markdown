@@ -9,7 +9,7 @@ img: /img/thesis.png
 ---
 <div class="row">
 
-<div class="col-sm-10">
+<div class="col-sm-12">
 		<p>
 			The Zombie Self Awareness Kit is a series of 5 interventions designed to reanimate our selves and create awareness around our relationship to our smart phones. In each of the projects in the kit focus on different aspects on our relationship with our phones.
 		</p>
@@ -56,7 +56,7 @@ img: /img/thesis.png
 		<img src="img/chanceofrainbows.jpg" class="img-responsive icon center-block" alt="Responsive image">
 	</div>
 
-<div class="col-sm-5">
+	<div class="col-sm-5">
 		<p>
 			<a href="http://www.samsadtler.com/rainbows">Chance of Rainbows</a> 
 			<br>
