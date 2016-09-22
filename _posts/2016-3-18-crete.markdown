@@ -17,7 +17,6 @@ img: /img/crete-wire.jpg
 		<img src="img/crete-wire.jpg" class="col-md-6 p-break img-responsive center-block" alt="Responsive image">
 		<p class="col-md-6 p-break">Who knew organic material could be so useful? The first connected brick for the age of electronic homes and useless devices. It does everything you might want from a Fitbit and yet it is in a form factor that is unwieldy and impractical. It uses haptics to communicate to users when they are not mindful. Created in collaboration with <a href="oryano.com">Oryan Inbar</a>
 		<br>
-		<br>
 		Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
 		</p>
 </div>
