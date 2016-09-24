@@ -10,15 +10,13 @@ permalink: /contact/
       <div >
             <form class="form-group" action="https://formspree.io/{{ site.email }}"
                   method="POST">
-                  <div class="col-md-2"></div>
-                  <ul class="col-md-8">
+                  <!-- <div class="col-md-2"></div> -->
+                  <ul class="col-md-12">
                         <li>
-            
                                 <input class="form-control" type="text" name="name" placeholder="Your Name">
       
                         </li>
                         <li>
-     
                                 <input class="form-control" type="email" name="_replyto" placeholder="Your Email"> 
                  
                         </li>
@@ -26,7 +24,6 @@ permalink: /contact/
                                  <textarea class="form-control" name="message" placeholder="Your message"></textarea>
                         </li>
                         <li>
-                            
                                 <input class="form-control" type="submit" value="Send">
                          
                         </li>
