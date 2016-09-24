@@ -29,20 +29,20 @@ permalink: /contact/
                         </li>
                   </ul>     
             </form>
-            <div class="col-md-2"></div>
+         
             <div class=" col-md-8 social-media-list">
 
                 {% if site.github_username %}
         
                     <a href="https://github.com/{{ site.github_username }}">
-                        <img src="../img/github.png">
+                        <img src="../img/github.png" width="58px">
                     </a>
               
                 {% endif %}
                 {% if site.twitter_username %}
                 
                     <a href="https://twitter.com/{{ site.twitter_username }}">
-                        <img src="../img/twitter.png" width="58px">
+                        <img src="../img/twitter.png">
 
                     </a>
             
