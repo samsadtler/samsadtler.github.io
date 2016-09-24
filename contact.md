@@ -35,14 +35,14 @@ permalink: /contact/
                 {% if site.github_username %}
         
                     <a href="https://github.com/{{ site.github_username }}">
-                        <img src="../img/github.png" width="58px">
+                        <img class="color-match" src="../img/github.png" width="58px">
                     </a>
               
                 {% endif %}
                 {% if site.twitter_username %}
                 
                     <a href="https://twitter.com/{{ site.twitter_username }}">
-                        <img src="../img/twitter.png">
+                        <img class="color-match" src="../img/twitter.png">
 
                     </a>
             
