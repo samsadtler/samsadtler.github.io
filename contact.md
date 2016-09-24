@@ -42,7 +42,7 @@ permalink: /contact/
                 {% if site.twitter_username %}
                 
                     <a href="https://twitter.com/{{ site.twitter_username }}">
-                        <img src="../img/twitter.png">
+                        <img src="../img/twitter.png" width="58px">
 
                     </a>
             
