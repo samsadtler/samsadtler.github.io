@@ -16,6 +16,8 @@ permalink: /about/
 		<p>
 			His wearable work explores ways to make technology enhance our senses. He and <a href="http://oryano.com/"> Oryan Inbar </a> are currently working with <a href="http://cyborgarts.com/#moon-ribas"> Moon Ribas </a> and  <a href="http://harbisson.com/">Neil Harbisson</a> to develop new senses for their cyborg selves at the <a href="https://thoughtworksarts.io/"> Thought Works Arts Residency.</a>
 			<br>
+		</p>
+		<p>
 			His personal work explores our relationship to smart phones and our involvement in the current <a href="www.samsadtler.com/apocalypse"> Zombie Apocalypse </a>. 
 		<br>
 
