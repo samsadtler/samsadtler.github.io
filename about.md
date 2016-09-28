@@ -10,11 +10,13 @@ permalink: /about/
 	</div>
 	<div class="col-xs-8">
 		<p>
-			Sam Sadtler is a creative technologist with a background based in Brooklyn, NY. He works at the intersection of software and hardware. Currently he focuses on Web development, IoT and Wearable devices. He has his Masters from the <a href="https://tisch.nyu.edu/itp"> Interactive Telecommunications Program </a> at <a href="http://www.nyu.edu/">New York University</a>.
+			<a href="www.samsadtler.com"> Sam Sadtler </a> is a creative technologist with based in Brooklyn, NY. He works at the intersection of software and hardware. Currently he focuses on web development, IoT and wearable devices. He has his Masters from the <a href="https://tisch.nyu.edu/itp"> Interactive Telecommunications Program </a> at <a href="http://www.nyu.edu/">New York University</a>.
 		<br>
 		</p>
 		<p>
-			His personal work explores our relationship to smart phones and our involvement in the current <a href="www.samsadtler.com/apocalypse"> Zombie Apocalypse </a>. His wearable work explores ways to make technology enhance our senses. He and <a href="http://oryano.com/"> Oryan Inbar </a> are currently working with <a href="http://cyborgarts.com/#moon-ribas"> Moon Ribas </a> and  <a href="http://harbisson.com/">Neil Harbisson</a> to develop new senses for their cyborg selves at the <a href="https://thoughtworksarts.io/"> Thought Works Arts Residency.</a>
+			His wearable work explores ways to make technology enhance our senses. He and <a href="http://oryano.com/"> Oryan Inbar </a> are currently working with <a href="http://cyborgarts.com/#moon-ribas"> Moon Ribas </a> and  <a href="http://harbisson.com/">Neil Harbisson</a> to develop new senses for their cyborg selves at the <a href="https://thoughtworksarts.io/"> Thought Works Arts Residency.</a>
+			<br>
+			His personal work explores our relationship to smart phones and our involvement in the current <a href="www.samsadtler.com/apocalypse"> Zombie Apocalypse </a>. 
 		<br>
 
 		</p>
