@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 <div class="container">
 	<div class="row">
-		<iframe src="https://medium.com/@samsadtler" width="100%"></iframe>
+		<iframe src="https://medium.com/@samsadtler" class="col-md-12"></iframe>
 	</div>
 </div>
 
