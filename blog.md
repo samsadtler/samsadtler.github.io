@@ -3,6 +3,11 @@ layout: page
 title: Blog
 permalink: /blog/
 ---
+<div class="container">
+	<div class="row">
+		<iframe src="https://medium.com/@samsadtler" width="100%"></iframe>
+	</div>
+</div>
 
 <div class="container">
 	<div class="row">
