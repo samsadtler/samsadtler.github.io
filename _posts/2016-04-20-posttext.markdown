@@ -15,9 +15,9 @@ img: /img/post-text.jpg
 </div>
 <div class="col-sm-6">	
 	<p class="text-sizing">
-		PostTexts are a way to make text message fun and exciting again by enabling deeper connection through a physical object. Capturing the tactile feel of the journey through the postal service and bringing us closer through the human quality in our handwriting and the nostalgia of anticipated connection.
+		PostTexts are a way to make text message fun and exciting again by enabling deeper connection through a physical object. Capturing the tactile feel of the journey of the postal service and bringing us closer, through the human quality in our handwriting and the nostalgia of anticipated connection.
 
-		PostTexts, a post card which gives pause to the act of writing text messages by creating a means to share a long conversation with a friend in a familiar format.
+		PostTexts, a postcard which gives pause to the act of writing text messages by creating a means to share a long conversation with a friend in a familiar format.
 
 	</p>
 	<p>
