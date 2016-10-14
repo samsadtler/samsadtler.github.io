@@ -15,7 +15,13 @@ img: /img/post-text.jpg
 </div>
 <div class="col-sm-6">	
 	<p class="text-sizing">
-		A way to give pause to the act of writing text messages by creating a means to share a long conversation with a friend. One which is about anticipation and excitement, yet fosters more attention and focus to the physical qualities of the exchange.
+		PostTexts are a way to make text message fun and exciting again by enabling deeper connection through a physical object. Capturing the tactile feel of the journey through the postal service and bringing us closer through the human quality in our handwriting and the nostalgia of anticipated connection.
+
+		PostTexts, a post card which gives pause to the act of writing text messages by creating a means to share a long conversation with a friend in a familiar format.
+
+		Designed to be sent back and forth* in the mail as a letter that multiple people can enjoy, even the postman!
+
+		*results may vary
 	</p>
 	<p>
 	Part of the	<a href="/apocalypse"> Zombie Self Awareness Kit</a>. 
