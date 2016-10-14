@@ -32,6 +32,6 @@ img: /img/post-text.jpg
 		Designed to be sent back and forth* in the mail as a letter that multiple people can enjoy, even the postman! *results may vary
 	</p>
 </div>
-<div class="col-sm-12">
+<div class="col-sm-12 p-break">
 	<img src="img/post-text-spread.jpg" class="img-responsive center-block p-break" alt="Responsive image">
 </div>
