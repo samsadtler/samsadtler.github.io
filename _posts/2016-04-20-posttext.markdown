@@ -19,7 +19,7 @@ img: /img/post-text.jpg
 
 		PostTexts, a post card which gives pause to the act of writing text messages by creating a means to share a long conversation with a friend in a familiar format.
 
-		Designed to be sent back and forth* in the mail as a letter that multiple people can enjoy, even the postman!
+		
 
 		*results may vary
 	</p>
@@ -30,7 +30,11 @@ img: /img/post-text.jpg
 <div class="col-sm-12">
 	<img src="img/mailbox-place.jpg" class="img-responsive center-block p-break" alt="Responsive image">
 </div>
-
+<div class="col-sm-12">
+	<p class="caption">
+		Designed to be sent back and forth* in the mail as a letter that multiple people can enjoy, even the postman!
+	</p>
+</div>
 <div class="col-sm-12">
 	<img src="img/post-text-spread.jpg" class="img-responsive center-block p-break" alt="Responsive image">
 </div>
