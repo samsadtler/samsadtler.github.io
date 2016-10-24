@@ -72,7 +72,7 @@ img: /img/thesis.png
 	<div class="col-sm-5">
 		<a href="http://www.samsadtler.com/zombie">Zombie Crossing </a>
 		<br>
-		Sign is an updated version of the standard pedestrian sign seen in use to today. It is my civic suggestion on how to update our dated infrastructure.
+		 is an updated version of the standard pedestrian sign seen in use to today. It is my civic suggestion on how to update our dated infrastructure.
 					
 	</div>
 </div>
