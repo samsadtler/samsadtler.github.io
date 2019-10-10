@@ -59,7 +59,7 @@ img: /img/thesis.png
 
 	<div class="col-sm-5">
 		<p>
-			<a href="http://www.samsadtler.com/rainbows">Chance of Rainbows</a> 
+			<a>Chance of Rainbows</a> 
 			<br>
 			is about re-framing our world view from relying on technology to manifesting a playful take on how we see the weather. So what if it's going to rain? There might be a rainbow. Calculating the angle of incidence of sunlight on rain into the human eye and then combining that information with time of day and weather predictions yields a new take on a drab subject. It might even get you to look away from your phone.
 		</p>
@@ -72,7 +72,7 @@ img: /img/thesis.png
 	<div class="col-sm-5">
 		<a href="http://www.samsadtler.com/zombie">Zombie Crossing </a>
 		<br>
-		Sign is an updated version of the standard pedestrian sign seen in use to today. It is my civic suggestion on how to update our dated infrastructure.
+		 is an updated version of the standard pedestrian sign seen in use to today. It is my civic suggestion on how to update our dated infrastructure.
 					
 	</div>
 </div>

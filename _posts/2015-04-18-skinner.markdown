@@ -17,7 +17,7 @@ img: /img/kat-lift-downsize.jpg
 
 	This piece was shown in the 2016 xStory Showcase at NYU.
 
-	Skinner's Scanner was done in collaboration with <a href="oryano.com"> Oryan Inbar </a>, and <a href="http://www.thearae.com/">Thea Rae</a>. Acting was done by Rocky
+	Skinner's Scanner was done in collaboration with <a href="oryano.com"> Oryan Inbar </a>, and <a href="http://www.thearae.com/">Thea Rae</a>. Acting was done by Raquel Friedman Vargas
 </div>
  <!-- <img src="{{post.img}}" class="img-responsive" alt="Responsive image"> -->
 
