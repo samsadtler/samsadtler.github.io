@@ -8,7 +8,7 @@ permalink: skinner
 img: /img/kat-lift-downsize.jpg
 ---
 <div>
-	<iframe width="100%" height="480" src="https://www.youtube.com/embed/VqxwXtlUiYg" frameborder="0" allowfullscreen></iframe>
+	<iframe width="100%" height="480" src="https://www.youtube.com/embed/4TXyrxa5PlU" frameborder="0" allow="autoplay; encrypted-media;picture-in-picture" allowfullscreen></iframe>
 </div>
 <div>
 	Skinner's Scanner is an interactive video projection installation which follows the day in the life of the scanner as it is used and abused at an elementary school. 
