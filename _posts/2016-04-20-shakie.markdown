@@ -24,9 +24,6 @@ img: /img/shakie-hand.jpg
 	
 </div>
 <p>
-	Shakie was designed with phonegap for iOS and is currently available.
-	<a href="https://itunes.apple.com/us/app/shakie-selfie/id1084179854?mt=8">
-		<img src="img/appstore.svg"/>
-	</a>
+	Shakie was designed with phonegap for iOS
 </p>
 
