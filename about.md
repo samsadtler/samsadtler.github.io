@@ -11,32 +11,34 @@ permalink: /about/
 		</div>
 		<div class="col-xs-8">
 			<p>
-				<a href="www.samsadtler.com"> Sam Sadtler </a> is a creative technologist based in Brooklyn, NY. He
-				works at the intersection of software and hardware. Currently he focuses on web development, IoT and
-				wearable devices. He has his Masters from the <a href="https://tisch.nyu.edu/itp"> Interactive
-					Telecommunications Program </a> at <a href="http://www.nyu.edu/">New York University</a>.
+				I am currently the Lead Software Developer at a startup called <a
+					href="https://touchcode.com/">Touchcode</a>
+				working
+				with web development and printed mobile engagement technology. Tasked with
+				creating all types of customer experiences from quick sales demos to dashboards, I
+				learned to be flexible in my approach to solving problems.
 			</p>
-			<br>
-			<p>
-				His wearable work explores ways to make technology enhance our senses. He and <a
-					href="http://oryano.com/"> Oryan Inbar </a> are worked with <a
-					href="http://cyborgarts.com/#moon-ribas"> Moon Ribas </a> and <a href="http://harbisson.com/">Neil
-					Harbisson</a> to develop new senses for their cyborg selves at the <a
-					href="https://thoughtworksarts.io/"> Thought Works Arts Residency. </a> A video about the expereince
-				can be seen <a herf="https://www.youtube.com/watch?v=MdDfAdSeRNQ"> here</a>.
-			</p>
-			<br>
 
 			<p>
-				His personal work explores our relationship to technology and our involvement in the current <a
-					href="www.samsadtler.com/apocalypse"> Zombie Apocalypse</a>. As well as the ability for Smart Home
-				Assitants ask each other lifes existential quetions at the <a
-					href="https://pioneerworks.org/residency/sam-sadtler/"> Pioneer Works Tech Residency</a>.
-
+				The demos built with Gulp, Babel, and Bootstrap and deployed on Azure,
+				<a herf="https://try.tc/demo/"> try.tc </a>utilized CSS animations which promote
+				a seamless connection from the physical to the digital. I have also
+				worked to develop a secure analytics dashboards built in React and Redux which
+				showcases engagement data for our customers in meaningful ways. Having to both
+				manage a remote development team while engaging the sale and marketing teams
+				to meet customer requirements, I am continually developing strong communication
+				skills which focus on distilling actionable items.
 			</p>
-			<br>
 			<p>
-				Sam has a B.S. in Mechanical Engineering at the University of Rochester, NY.
+				While not at work, I try to make novel experiences with new and dated
+				technologies which call attention to our relationships to these often cold objects. I
+				recently utilized an Amazon Alexa and a Google Home, to created an installation
+				during my <a href="https://pioneerworks.org/residency/sam-sadtler/"> Pioneer Works Tech Residency</a>.
+				The two A.I.s interacted with each other through custom made skills which focused on existential
+				questions. They were installed at Pioneer Works for Second Sunday. Another example is, during my time at
+				NYU's <a href="https://tisch.nyu.edu/itp">Interactive Telecommunications Program</a> I developed an iOS
+				app
+				called <a href="/shakie">Shakie </a> designed to bring the joy back to taking selfies.
 			</p>
 		</div>
 	</div>
