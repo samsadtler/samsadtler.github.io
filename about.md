@@ -21,7 +21,7 @@ permalink: /about/
 
 			<p>
 				The demos built with Gulp, Babel, and Bootstrap and deployed on Azure,
-				<a herf="https://try.tc/demo/"> try.tc </a>utilized CSS animations which promote
+				<a href="https://try.tc/demo/"> try.tc </a>utilized CSS animations which promote
 				a seamless connection from the physical to the digital. I have also
 				worked to develop a secure analytics dashboards built in React and Redux which
 				showcases engagement data for our customers in meaningful ways. Having to both
