@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post Text"
-date:   2016-04-20 21:00:30
+date:   2016-04-20 21:00:29
 categories: Connected-Post  
 description: Reimagining text messages through the traditional USPS
 permalink: posttext
